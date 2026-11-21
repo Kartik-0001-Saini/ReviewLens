@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local cache database
+backend/data/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private working files (not part of the submission)
+CEDCOSS TechnicalAssessmentreviewLens.pdf
+COMMITS.md
